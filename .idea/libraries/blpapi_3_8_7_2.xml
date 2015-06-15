@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="blpapi-3.8.7-2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/blpapi_java_3.8.7.2/bin/blpapi-3.8.7-2.jar!/" />
+      <root url="jar://$USER_HOME$/blpapi_java_3.8.7.2/bin/blpapi-examples-3.8.7-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
